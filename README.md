@@ -1,7 +1,9 @@
-# PopHIVE Canada: Same great data, with a cool northern chill
-## Data dictionary and documentation
+# PopHIVE Insights Substack
 
-https://pophive.github.io/Ingest_canada/
+The PopHIVE Insights blog is our space to discuss the ways that PopHIVE data can be used to generate actionable insights for public health and healthcare. 
+
+Visit our blog here: https://pophive.substack.com/ 
+
 
 ## Using these data
 
