@@ -1,7 +1,7 @@
 {
-  "name": "ingest_canada",
+  "name": "Substack",
   "data_dir": "data",
   "github_account": "",
   "branch": "main",
-  "repo_name": "ingest_canada"
+  "repo_name": "Substack"
 }
